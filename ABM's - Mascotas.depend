@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1704115847 source:d:\unla\primer año\programación de computadoras\ejercicios c en codeblocks\unidad 7 - tda\abm's - mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+
+1666013282 d:\unla\primer año\programación de computadoras\ejercicios c en codeblocks\unidad 7 - tda\abm's - mascotas\mascota.h
+
+1704115845 source:d:\unla\primer año\programación de computadoras\ejercicios c en codeblocks\unidad 7 - tda\abm's - mascotas\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+
+1665971448 source:d:\unla\primer año\programación de computadoras\ejercicios c en codeblocks\unidad 7 - tda\abm's - mascotas\a.c
+
+1665971450 source:d:\unla\programación de computadoras\ejercicios c en codeblocks\unidad 7\abm's - mascotas\a.c
+
+1666011128 source:d:\unla\programación de computadoras\ejercicios c en codeblocks\unidad 7\abm's - mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+
+1666011548 d:\unla\programación de computadoras\ejercicios c en codeblocks\unidad 7\abm's - mascotas\mascota.h
+
+1666011548 source:d:\unla\programación de computadoras\ejercicios c en codeblocks\unidad 7\abm's - mascotas\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+
